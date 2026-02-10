@@ -57,6 +57,10 @@ This systematic review followed PRISMA 2020 guidelines to synthesize empirical e
 │   ├── figure5_architectural_evolution.pdf        # Model evolution
 │   ├── figure6_asset_class_distribution.pdf       # Market coverage
 │   └── figure7_performance_by_model.pdf           # Performance comparison
+├── references/
+│   ├── included_studies_list.csv                  # Clean reference list (90 studies)
+│   ├── included_studies.bib                       # BibTeX bibliography
+│   └── README.md                                  # Reference documentation
 └── README.md                                       # This file
 ```
 
@@ -92,6 +96,17 @@ This systematic review followed PRISMA 2020 guidelines to synthesize empirical e
 - **Table 5:** Quality assessment distribution
 - **Table 6:** Top 36 high-quality studies (detailed analysis)
 - **Table 7:** Identified research gaps and future directions
+
+### References
+
+**`included_studies_list.csv`**
+- Clean reference list for all included studies
+- Fields: Citation_Key, Author, Year, Title
+- Useful for quick lookups and citation verification
+
+**`included_studies.bib`**
+- BibTeX bibliography file for all included studies
+- Import into Zotero, Mendeley, EndNote, or use in LaTeX
 
 ## Usage
 
