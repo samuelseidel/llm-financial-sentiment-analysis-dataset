@@ -239,7 +239,7 @@ Under the following terms:
 
 **Author:** Ing. Samuel Seidel
 **Institution:** Faculty of Informatics and Management, University of Hradec Králové
-**Email:** [Your email]
+**Email:** samuel.seidel@icloud.com
 
 ## Acknowledgments
 
