@@ -1,0 +1,19 @@
+Study,Year,Model,Market,Metric_Type,Metric_Name,Value,Comparison,Notes
+Li2021,2021,BERT,Stock,Classification,Accuracy,97.35%,-,Chinese stock reviews highest accuracy
+Singh2025,2025,RoBERTa-BiLSTM,Stock,Classification,Directional Accuracy,88.2%,-,Multimodal sentiment approach
+Fatouros2023,2023,ChatGPT 3.5,Forex,Classification,F1-Score,+35%,vs FinBERT,Zero-shot learning advantage
+Zhang2023,2023,ChatGPT+RAG,General,Classification,Accuracy,+15-48%,vs traditional,RAG enhancement critical
+Gona2025,2025,LSTM-Transformer,Stock,Classification,Directional Accuracy,76.4%,-,Hybrid model direction prediction
+,,,,,,,
+Batra2025,2025,DistilBERT,Stock,Regression,RMSE,0.456,-,Best regression RMSE reported
+Batra2025,2025,DistilBERT,Stock,Regression,R²,0.997,-,Excellent fit sentiment + market
+Gona2025,2025,LSTM-Transformer,Stock,Regression,MSE,0.0021,-,Hybrid architecture advantage
+Singh2025,2025,RoBERTa-BiLSTM,Stock,Regression,RMSE,0.92,-,Multimodal regression
+Singh2025,2025,RoBERTa-BiLSTM,Stock,Regression,R²,0.89,-,Good fit multimodal
+,,,,,,,
+FinBERT,All years,-,Stock,Quality,Mean Quality Score,6.36,+21% vs BERT,Domain-specific advantage
+Transformer,All years,-,All,Quality,Mean Quality Score,5.91,+2% vs average,Modern architecture
+BERT,All years,-,All,Quality,Mean Quality Score,5.27,-9% vs average,General-purpose limitation
+ChatGPT,All years,-,All,Quality,Mean Quality Score,5.25,-10% vs average,Early adoption below average
+Stock papers,All years,-,Stock,Quality,Mean Quality Score,6.00,+3% vs average,Mature research domain
+Crypto papers,All years,-,Crypto,Quality,Mean Quality Score,5.09,-12% vs average,Volatile domain lower quality

@@ -1,0 +1,37 @@
+Category,Specific_Gap,Current_Papers,Current_Percentage,Gap_Percentage,Priority,Recommendations,Expected_Impact
+Markets,Bond Markets,0,0%,100%,HIGH,Apply LLM sentiment to fixed-income markets,High - large underserved market
+Markets,Derivatives,0,0%,100%,HIGH,Options futures sentiment analysis,High - complex instruments need analysis
+Markets,Commodities,1,0.8%,99.2%,HIGH,Expand beyond stocks to commodities,High - alternative asset class
+Markets,Real Estate,0,0%,100%,MEDIUM,Property market sentiment analysis,Medium - alternative investment
+Markets,Forex,5,4.2%,95.8%,MEDIUM,Currency market expansion,Medium - existing foundation
+,,,,,,,
+Applications,Risk Management,3,2.5%,97.5%,HIGH,VaR stress testing risk metrics,High - critical for finance
+Applications,Portfolio Optimization,5,4.2%,95.8%,HIGH,Beyond Black-Litterman approaches,High - practical application
+Applications,Regulatory Compliance,0,0%,100%,HIGH,RegTech applications,High - regulatory requirement
+Applications,Fraud Detection,0,0%,100%,HIGH,Manipulation insider trading detection,High - market integrity
+Applications,ESG Analysis,0,0%,100%,MEDIUM,Sustainability sentiment analysis,Medium - growing importance
+Applications,Credit Risk,0,0%,100%,MEDIUM,Default prediction modeling,Medium - credit markets
+,,,,,,,
+Data Sources,Earnings Calls,~1,0.8%,99%,HIGH,Management tone Q&A analysis,High - rich information source
+Data Sources,Analyst Reports,0,0%,100%,HIGH,Professional analysis integration,High - expert opinions
+Data Sources,Regulatory Filings,0,0%,100%,HIGH,8-K 13-F insider transactions,High - material events
+Data Sources,Alternative Data,0,0%,100%,MEDIUM,Satellite web scraping data,Medium - innovation opportunity
+Data Sources,Financial Statements,3,2.5%,97.5%,MEDIUM,Beyond MD&A full statement analysis,Medium - comprehensive view
+,,,,,,,
+Methodology,Causality Analysis,~0,0%,100%,HIGH,Beyond correlation to causation,High - theoretical advancement
+Methodology,Explainability XAI,~1,0.8%,99%,HIGH,Regulatory compliance requirements,High - trust and adoption
+Methodology,Adversarial Robustness,0,0%,100%,HIGH,Market manipulation detection,High - system reliability
+Methodology,Out-of-sample Testing,Poor reporting,~20%,80%,HIGH,Generalization validation protocols,High - practical deployment
+Methodology,Transaction Costs,Rarely considered,~5%,95%,MEDIUM,Realistic trading simulation,Medium - practical constraints
+Methodology,Regime Detection,Limited,~10%,90%,MEDIUM,Market condition adaptation,Medium - dynamic markets
+,,,,,,,
+Geography,European Markets,0,0%,100%,MEDIUM,EU UK market coverage,Medium - major markets
+Geography,Emerging Markets,~0,0%,100%,MEDIUM,BRICS frontier markets,Medium - growth opportunity
+Geography,Cross-Country Studies,1,0.8%,99.2%,HIGH,Comparative market analysis,High - generalizability
+Geography,Regional Markets,Limited,~5%,95%,LOW,Sub-national market analysis,Low - niche application
+,,,,,,,
+Technical,Prompt Engineering,1,0.8%,99.2%,HIGH,Optimal prompting strategies for finance,High - LLM effectiveness
+Technical,Real-time Systems,Minimal,~5%,95%,MEDIUM,Production deployment systems,Medium - practical implementation
+Technical,Model Compression,Limited,~10%,90%,MEDIUM,Efficient inference methods,Medium - computational efficiency
+Technical,Multilingual Models,1-2,~2%,98%,MEDIUM,Non-English financial markets,Medium - global expansion
+Technical,Multi-task Learning,1,0.8%,99.2%,MEDIUM,Joint optimization frameworks,Medium - efficiency gains

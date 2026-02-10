@@ -1,0 +1,37 @@
+Category,Subcategory,Papers_n,Percentage,Mean_Quality,Gap_Percentage,Notes
+Asset Classes,Stock Markets,45,38.1%,6.00,-,Highest quality and volume
+Asset Classes,General Finance,57,48.3%,5.68,-,Methodology focus
+Asset Classes,Cryptocurrency,11,9.3%,5.09,-,Lower quality volatile domain
+Asset Classes,Forex,5,4.2%,6.00,95.8%,High quality small sample
+Asset Classes,Commodities,1,0.8%,5.00,99.2%,Critical gap
+Asset Classes,Bonds,0,0%,-,100%,Complete gap
+Asset Classes,Derivatives,0,0%,-,100%,Complete gap
+Asset Classes,Real Estate,0,0%,-,100%,Complete gap
+,,,,,
+Data Sources,News Articles,22,18.6%,-,-,Primary data source
+Data Sources,Social Media (all),7,5.9%,-,-,Underutilized resource
+Data Sources,Twitter/X,3,2.5%,-,-,Retail sentiment
+Data Sources,Reddit,2,1.7%,-,-,Discussion forums
+Data Sources,StockTwits,1,0.8%,-,-,Finance-specific platform
+Data Sources,Financial Reports (all),3,2.5%,-,97.5%,Critical gap
+Data Sources,10-K/10-Q filings,2,1.7%,-,-,Annual/quarterly reports
+Data Sources,MD&A sections,1,0.8%,-,-,Management discussion
+Data Sources,Earnings Calls,~1,0.8%,-,99%,Rare usage
+Data Sources,Not Specified,87,73.7%,-,-,Unreported in papers
+,,,,,
+Applications,Sentiment Analysis,77,65.3%,-,-,Primary research focus
+Applications,Price Prediction,21,17.8%,-,47.5%,Gap vs sentiment focus
+Applications,Trend/Direction Prediction,8,6.8%,-,-,Classification task
+Applications,Trading Strategies,8,6.8%,-,-,Implementation focus
+Applications,Portfolio Optimization,5,4.2%,-,95.8%,Critical gap
+Applications,Risk Management,3,2.5%,-,97.5%,Critical gap
+Applications,Volatility Analysis,3,2.5%,-,-,Risk-related analysis
+Applications,Regulatory Compliance,0,0%,-,100%,Complete gap
+Applications,Fraud Detection,0,0%,-,100%,Complete gap
+Applications,ESG Analysis,0,0%,-,100%,Complete gap
+Applications,Not Specified,73,61.9%,-,-,Method-focused papers
+,,,,,
+Prediction Horizons,Intraday,~5,4.2%,-,-,High-frequency trading
+Prediction Horizons,Daily,~15,12.7%,-,-,Most common horizon
+Prediction Horizons,Weekly/Monthly,~3,2.5%,-,-,Medium-term forecasting
+Prediction Horizons,Not Specified,~95,80.5%,-,-,Unreported horizon

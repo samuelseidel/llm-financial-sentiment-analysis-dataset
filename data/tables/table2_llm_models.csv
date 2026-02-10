@@ -1,0 +1,31 @@
+Category,Model_Architecture,Papers_n,Percentage,Mean_Quality,Trend,Notes
+Transformer-Based,Transformer (generic),20,16.9%,5.91,Rising,"300% growth 2024→2025"
+Transformer-Based,BERT,15,12.7%,5.27,Declining,"60% (2021) → 0% (2026)"
+Transformer-Based,FinBERT,11,9.3%,6.36,Stable,Domain-specific leader
+Transformer-Based,RoBERTa,1,0.8%,-,Rare,Limited adoption
+Transformer-Based,DistilBERT,1,0.8%,-,Rare,Lightweight variant
+Transformer-Based,ALBERT,1,0.8%,-,Rare,Efficient variant
+Transformer-Based,DeBERTa,1,0.8%,-,Rare,Enhanced BERT
+,,,,,
+Large Language Models,LLM (generic),12,10.2%,-,Rising,2024-2026 only
+Large Language Models,ChatGPT,3,2.5%,5.25,Emerging,Below average quality
+Large Language Models,GPT-4,2,1.7%,7.00,Emerging,Limited sample
+Large Language Models,LLaMA,4,3.4%,-,Emerging,Open-source leader
+Large Language Models,Claude,1,0.8%,-,Very new,Single study
+Large Language Models,Gemini,1,0.8%,-,Very new,Single study
+,,,,,
+Recurrent Models,LSTM,12,10.2%,5.83,Legacy,Often hybrid with transformers
+Recurrent Models,BiLSTM,3,2.5%,-,Declining,Bidirectional variant
+Recurrent Models,GRU,1,0.8%,-,Rare,Alternative to LSTM
+,,,,,
+Training Approaches,Pre-trained only,28,23.7%,-,-,Using existing models
+Training Approaches,Fine-tuned,21,17.8%,-,-,Domain adaptation
+Training Approaches,Unknown/Not stated,69,58.5%,-,-,Not reported in abstracts
+,,,,,
+Advanced Techniques,Attention Mechanisms,11,9.3%,-,Mature,Standard practice
+Advanced Techniques,RAG (Retrieval-Augmented),9,7.6%,-,Emerging,Addresses hallucination
+Advanced Techniques,Multimodal Integration,5,4.2%,-,Emerging,Text + numerical + visual
+Advanced Techniques,Ensemble Methods,3,2.5%,-,Niche,Multiple models combined
+Advanced Techniques,Zero-shot Learning,1,0.8%,-,Very new,Prompt-based approach
+Advanced Techniques,Chain-of-Thought,1,0.8%,-,Very new,Reasoning prompts
+Advanced Techniques,Few-shot Learning,1,0.8%,-,Very new,Limited examples

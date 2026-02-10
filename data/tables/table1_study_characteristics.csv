@@ -1,0 +1,30 @@
+Characteristic,Category,Value,Count,Percentage,Notes
+Overall,Total Studies,2020-2026,118,100%,After PRISMA screening
+Overall,Year Range,7 years,118,100%,2020-2026
+Overall,Mean Quality Score,5.81/10,-,-,Range: 3-10
+Overall,Median Quality Score,6.0/10,-,-,Standard measure
+,,,,,
+Temporal,2020,Early adoption,1,0.8%,Pre-BERT dominance
+Temporal,2021,BERT era begins,5,4.2%,BERT adoption
+Temporal,2022,Pre-ChatGPT,6,5.1%,Traditional models
+Temporal,2023,ChatGPT emergence,17,14.4%,Inflection point
+Temporal,2024,Rapid growth,27,22.9%,Acceleration
+Temporal,2025,Peak year,54,45.8%,Highest volume
+Temporal,2026,Partial year,8,6.8%,Ongoing research
+,,,,,
+Period,Early Period (2020-2022),Quality 5.25,12,10.2%,Foundation phase
+Period,Transition (2023),Quality 5.82,17,14.4%,ChatGPT impact
+Period,Modern Period (2024-2026),Quality 5.88,89,75.4%,Maturation phase
+,,,,,
+Quality Distribution,High Quality (8-10),Excellent rigor,19,16.1%,Top tier
+Quality Distribution,Acceptable (6-7),Good quality,42,35.6%,Above average
+Quality Distribution,Moderate (5),Basic standards,30,25.4%,Acceptable
+Quality Distribution,Low (3-4),Methodological issues,27,22.9%,Below standard
+,,,,,
+Geographic,Not specified,Assumed global/US,110,93.2%,Default assumption
+Geographic,China,Explicit focus,3,2.5%,Chinese markets
+Geographic,United States,Explicit focus,2,1.7%,US markets
+Geographic,Other regions,Japan India Iran,3,2.5%,Regional studies
+,,,,,
+Publication,Journals,Peer-reviewed,94,79.7%,Primary venue
+Publication,Conferences,Proceedings,24,20.3%,Secondary venue

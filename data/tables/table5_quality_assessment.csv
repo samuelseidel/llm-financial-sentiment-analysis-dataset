@@ -1,0 +1,22 @@
+Category,Criterion,Mean_Score,Perfect_Percentage,Partial_Percentage,Failed_Percentage,Assessment
+Criteria,Research Question,0.88,91.5%,6.8%,1.7%,Best criterion overall
+Criteria,Data Quality,0.85,85.6%,13.6%,0.8%,Strong performance
+Criteria,Methodology,0.82,82.2%,16.9%,0.8%,Good rigor
+Criteria,Model Validity,0.79,79.7%,18.6%,1.7%,Adequate validation
+Criteria,Statistical Analysis,0.76,76.3%,22.0%,1.7%,Moderate performance
+Criteria,Reproducibility,0.74,74.6%,23.7%,1.7%,Weakness identified
+Criteria,Bias Control,0.71,71.2%,27.1%,1.7%,Major gap critical issue
+Criteria,Overall Mean,5.81,-,-,-,Aggregate score
+,,,,,
+Score Distribution,10 Perfect,2.5%,3,-,-,Exceptional studies
+Score Distribution,9 Excellent,4.2%,5,-,-,Outstanding quality
+Score Distribution,8 Very Good,9.3%,11,-,-,High quality research
+Score Distribution,7 Good,14.4%,17,-,-,Acceptable standards
+Score Distribution,6 Acceptable,21.2%,25,-,-,Moderate quality
+Score Distribution,5 Moderate,25.4%,30,-,-,Basic standards met
+Score Distribution,4 Weak,18.6%,22,-,-,Methodological issues
+Score Distribution,3 Poor,4.2%,5,-,-,Significant flaws
+,,,,,
+Cumulative,High Quality (≥8),16.1%,19,-,-,Top tier cumulative
+Cumulative,Acceptable (≥6),51.7%,61,-,-,Above threshold
+Cumulative,All Studies,100.0%,118,-,-,Complete dataset

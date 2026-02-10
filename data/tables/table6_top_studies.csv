@@ -1,0 +1,11 @@
+Rank,Citation,Year,Quality_Score,LLM_Model,Market,Key_Finding,Innovation,Geographic_Focus
+1,Dakalbab et al.,2025,10,Transformer + Attention,Forex,Multimodal text-driven Forex prediction,Cross-modal attention mechanism,Global
+2,Batra et al.,2025,10,DistilBERT,Stock,RMSE 0.456 R² 0.997 sentiment-driven prediction,Optimization + sentiment integration,Not specified
+3,Hajaghaie & Thulasiram,2025,10,LLaMA 3.1 + RAG,Multi-asset,RAG-enhanced multi-asset portfolio construction,Few-shot + RAG combination,United States
+4,Song et al.,2025,9,Transformer-RL,Commodities,Adaptive RL framework for market volatility,Reinforcement learning integration,China
+5,Gona et al.,2025,9,LSTM-Transformer + FinBERT,Stock,MSE 0.0021 Directional Accuracy 76.4%,Hybrid architecture LSTM + Transformer,Not specified
+6,Mantshimuli & Mwamba,2025,9,Multi-LLM ensemble,Stock,Multi-LLM sentiment aggregation,Black-Litterman integration approach,United States
+7,Shobayo et al.,2024,9,FinBERT + GPT-4,Stock,Comparative analysis of LLM models,Head-to-head LLM comparison,Global
+8,Li et al.,2021,9,BERT,Stock,97.35% accuracy on Chinese stock reviews,Domain + language adaptation,China
+9,Gu & Song,2026,8,FinBERT + LSTM,Forex,Currency-pair-specific fine-tuning,Contextual sentiment indices,Not specified
+10,Huang et al.,2026,8,Distilled LLM + CoT,General,Chain-of-thought fine-tuning for sentiment,CoT for financial sentiment analysis,Not specified
